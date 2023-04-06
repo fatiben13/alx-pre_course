@@ -1,1 +1,21 @@
-#!/bin/bashcho "alx"
+#!/bin/bash
+echo "ALX"
+^C
+
+root@3986a36ff0de:/alx-pre_course/0x01-git/bash#cat > alx
+#!/bin/bash    
+Â¨Â^C
+root@3986a36ff0de:/alx-pre_course/0x01-git/bash# cat > alx
+#!/bin/bash
+^C
+root@3986a36ff0de:/alx-pre_course/0x01-git/bash# vi alx
+root@3986a36ff0de:/alx-pre_course/0x01-git/bash# ls
+cat > alx
+#!/bin/bash
+^C         
+
+root@3986a36ff0de:/alx-pre_course/0x01-git/bash# ls
+
+Â
+
+clear
